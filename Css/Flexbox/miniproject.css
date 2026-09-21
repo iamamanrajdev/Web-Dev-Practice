@@ -1,0 +1,22 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+}
+.box{
+    height: 500px;
+    width:400px;
+    background-color: rgb(220, 225, 245);
+    padding:70px ;
+}
